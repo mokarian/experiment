@@ -1,0 +1,190 @@
+{
+  "mappings": {
+    "properties": {
+      "name": {
+        "type": "text",
+        "fields": {
+          "ngrams": {
+            "type": "text",
+            "analyzer": "ngram"
+          },
+          "camel": {
+            "type": "text",
+            "analyzer": "camel"
+          },
+          "email": {
+            "type": "text",
+            "analyzer": "email"
+          },
+          "porter": {
+            "type": "text",
+            "analyzer": "porter"
+          },
+          "stemmer": {
+            "type": "text",
+            "analyzer": "stemmer"
+          },
+          "word_delimiter": {
+            "type": "text",
+            "analyzer": "word_delimiter"
+          },
+          "stemmed_and_unstemmed": {
+            "type": "text",
+            "analyzer": "stemmed_and_unstemmed"
+          },
+          "kstem": {
+            "type": "text",
+            "analyzer": "kstem"
+          },
+          "phonetic": {
+            "type": "text",
+            "analyzer": "phonetic"
+          },
+          "alphanumpermutation": {
+            "type": "text",
+            "analyzer": "alphanumpermutation"
+          }
+        }
+      }
+    }
+  },
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "ngram": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-ngram-tokenizer.html",
+          "tokenizer": "ngram_tokenizer"
+        },
+        "camel": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-pattern-analyzer.html",
+          "type": "pattern",
+          "pattern": "([^\\p{L}\\d]+)|(?<=\\D)(?=\\d)|(?<=\\d)(?=\\D)|(?<=[\\p{L}&&[^\\p{Lu}]])(?=\\p{Lu})|(?<=\\p{Lu})(?=\\p{Lu}[\\p{L}&&[^\\p{Lu}]])"
+        },
+        "email": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/7.2/analysis-pattern-capture-tokenfilter.html",
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "email"
+          ]
+        },
+        "porter": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-porterstem-tokenfilter.html",
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "porter_stem"
+          ]
+        },
+        "word_delimiter": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-word-delimiter-tokenfilter.html",
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "word_delimiter"
+          ]
+        },
+        "stemmer": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-stemmer-tokenfilter.html#analysis-stemmer-tokenfilter",
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "stemmer_filter"
+          ]
+        },
+        "stemmed_and_unstemmed": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-keyword-repeat-tokenfilter.html",
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "keyword_repeat",
+            "porter_stem",
+            "unique_stem"
+          ]
+        },
+        "kstem": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-kstem-tokenfilter.html",
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "kstem"
+          ]
+        },
+        "phonetic": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/plugins/7.2/analysis-phonetic.html",
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "phonetic"
+          ]
+        },
+        "alphanumpermutation": {
+          "_comment": "https://www.elastic.co/guide/en/elasticsearch/reference/7.2/analysis-pattern-capture-tokenfilter.html",
+          "type": "custom",
+          "tokenizer": "pattern",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "alphanumpermutation"
+          ]
+        }
+      },
+      "filter": {
+        "stemmer_filter": {
+          "type": "stemmer",
+          "name": "english"
+        },
+        "unique_stem": {
+          "type": "unique",
+          "only_on_same_position": true
+        },
+        "phonetic": {
+          "type": "phonetic",
+          "encoder": "metaphone"
+        },
+        "email": {
+          "type": "pattern_capture",
+          "preserve_original": true,
+          "patterns": [
+            "([^@]+)",
+            "(\\p{L}+)",
+            "(\\d+)",
+            "@(.+)"
+          ]
+        },
+        "alphanumpermutation": {
+          "type": "pattern_capture",
+          "preserve_original": true,
+          "patterns": [
+            "(([a-z]+)(\\d*))"
+          ]
+        }
+      },
+      "tokenizer": {
+        "ngram_tokenizer": {
+          "type": "ngram",
+          "min_gram": 4,
+          "max_gram": 5,
+          "token_chars": [
+            "letter",
+            "digit"
+          ]
+        }
+      }
+    }
+  }
+}

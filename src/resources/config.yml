@@ -1,0 +1,3 @@
+cognitive_services:
+  endpoint: "cognitive_services_endpoint"
+  key: "cognitive_services_key"

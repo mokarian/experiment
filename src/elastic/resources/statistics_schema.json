@@ -1,0 +1,17 @@
+{
+    "settings" : {
+        "number_of_shards" : 1
+    },
+    "mappings" : {
+        "properties" : {
+            "fields" : { "type" : "text" },
+           "tp" : { "type" : "integer" },
+           "tn" : { "type" : "integer" },
+           "fp" : { "type" : "integer" },
+           "fn" : { "type" : "integer" },
+           "precision" : { "type" : "float" },
+           "recall" : { "type" : "float" },
+           "f1" : { "type" : "float" }
+        }
+    }
+}

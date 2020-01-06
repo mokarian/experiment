@@ -1,0 +1,5112 @@
+[
+  {
+    "fn": 26,
+    "tp": 364,
+    "tn": 18,
+    "fp": 12,
+    "fields": "camelcase-stemming-text_microsoft",
+    "precision": 0.6,
+    "recall": 0.9333333333333333,
+    "f1": 0.7304347826086957
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 27,
+    "tp": 364,
+    "tn": 18,
+    "fp": 11,
+    "fields": "camelcase-stemming-url_email",
+    "precision": 0.6206896551724138,
+    "recall": 0.9309462915601023,
+    "f1": 0.7447993634193476
+  },
+  {
+    "fn": 27,
+    "tp": 363,
+    "tn": 18,
+    "fp": 12,
+    "fields": "camelcase-stemming",
+    "precision": 0.6,
+    "recall": 0.9307692307692308,
+    "f1": 0.7296482412060302
+  },
+  {
+    "fn": 26,
+    "tp": 364,
+    "tn": 18,
+    "fp": 12,
+    "fields": "camelcase-text_microsoft",
+    "precision": 0.6,
+    "recall": 0.9333333333333333,
+    "f1": 0.7304347826086957
+  },
+  {
+    "fn": 26,
+    "tp": 365,
+    "tn": 18,
+    "fp": 11,
+    "fields": "camelcase-url_email-text_microsoft",
+    "precision": 0.6206896551724138,
+    "recall": 0.9335038363171355,
+    "f1": 0.7456165238608637
+  },
+  {
+    "fn": 27,
+    "tp": 364,
+    "tn": 18,
+    "fp": 11,
+    "fields": "camelcase-url_email",
+    "precision": 0.6206896551724138,
+    "recall": 0.9309462915601023,
+    "f1": 0.7447993634193476
+  },
+  {
+    "fn": 27,
+    "tp": 362,
+    "tn": 18,
+    "fp": 13,
+    "fields": "camelcase",
+    "precision": 0.5806451612903226,
+    "recall": 0.9305912596401028,
+    "f1": 0.7151009657594382
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "edge_n_gram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "edge_n_gram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "edge_n_gram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "edge_n_gram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "edge_n_gram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "edge_n_gram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "edge_n_gram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 379,
+    "tn": 0,
+    "fp": 41,
+    "fields": "edge_n_gram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "edge_n_gram-letter-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "edge_n_gram-letter-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "edge_n_gram-letter-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "edge_n_gram-letter-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "edge_n_gram-letter-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "edge_n_gram-letter-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "edge_n_gram-letter-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "edge_n_gram-letter-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "edge_n_gram-letter-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-letter-ngram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "edge_n_gram-letter-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "edge_n_gram-letter-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "edge_n_gram-letter-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "edge_n_gram-letter-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "edge_n_gram-letter-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "edge_n_gram-letter-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "edge_n_gram-letter-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 378,
+    "tn": 0,
+    "fp": 42,
+    "fields": "edge_n_gram-letter",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "edge_n_gram-ngram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "edge_n_gram-ngram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "edge_n_gram-ngram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "edge_n_gram-ngram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "edge_n_gram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 382,
+    "tn": 0,
+    "fp": 38,
+    "fields": "edge_n_gram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "edge_n_gram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 376,
+    "tn": 0,
+    "fp": 44,
+    "fields": "edge_n_gram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 376,
+    "tn": 0,
+    "fp": 44,
+    "fields": "edge_n_gram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "edge_n_gram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 377,
+    "tn": 0,
+    "fp": 43,
+    "fields": "edge_n_gram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 362,
+    "tn": 0,
+    "fp": 58,
+    "fields": "edge_n_gram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "letter-camelcase-stemming-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "letter-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 27,
+    "tp": 361,
+    "tn": 18,
+    "fp": 14,
+    "fields": "letter-camelcase-stemming-url_email",
+    "precision": 0.5625,
+    "recall": 0.9304123711340206,
+    "f1": 0.7011221406991799
+  },
+  {
+    "fn": 27,
+    "tp": 363,
+    "tn": 18,
+    "fp": 12,
+    "fields": "letter-camelcase-stemming",
+    "precision": 0.6,
+    "recall": 0.9307692307692308,
+    "f1": 0.7296482412060302
+  },
+  {
+    "fn": 26,
+    "tp": 364,
+    "tn": 18,
+    "fp": 12,
+    "fields": "letter-camelcase-text_microsoft",
+    "precision": 0.6,
+    "recall": 0.9333333333333333,
+    "f1": 0.7304347826086957
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "letter-camelcase-url_email-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 27,
+    "tp": 364,
+    "tn": 18,
+    "fp": 11,
+    "fields": "letter-camelcase-url_email",
+    "precision": 0.6206896551724138,
+    "recall": 0.9309462915601023,
+    "f1": 0.7447993634193476
+  },
+  {
+    "fn": 27,
+    "tp": 363,
+    "tn": 18,
+    "fp": 12,
+    "fields": "letter-camelcase",
+    "precision": 0.6,
+    "recall": 0.9307692307692308,
+    "f1": 0.7296482412060302
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "letter-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-camelcase-stemming-url_email",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-camelcase-stemming",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-camelcase-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 388,
+    "tn": 3,
+    "fp": 27,
+    "fields": "letter-ngram-camelcase-url_email",
+    "precision": 0.1,
+    "recall": 0.9948717948717949,
+    "f1": 0.18173302107728337
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-camelcase",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "letter-ngram-stemming-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 385,
+    "tn": 3,
+    "fp": 30,
+    "fields": "letter-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.09090909090909091,
+    "recall": 0.9948320413436692,
+    "f1": 0.1665945478147988
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-stemming-url_email",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-stemming",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "letter-ngram-url_email-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 388,
+    "tn": 3,
+    "fp": 27,
+    "fields": "letter-ngram-url_email",
+    "precision": 0.1,
+    "recall": 0.9948717948717949,
+    "f1": 0.18173302107728337
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "letter-ngram",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "letter-stemming-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "letter-stemming-url_email-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 29,
+    "tp": 359,
+    "tn": 19,
+    "fp": 13,
+    "fields": "letter-stemming-url_email",
+    "precision": 0.59375,
+    "recall": 0.9252577319587629,
+    "f1": 0.7233297985153765
+  },
+  {
+    "fn": 29,
+    "tp": 358,
+    "tn": 19,
+    "fp": 14,
+    "fields": "letter-stemming",
+    "precision": 0.5757575757575758,
+    "recall": 0.9250645994832042,
+    "f1": 0.7097615693640111
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "letter-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 28,
+    "tp": 360,
+    "tn": 19,
+    "fp": 13,
+    "fields": "letter-url_email-text_microsoft",
+    "precision": 0.59375,
+    "recall": 0.9278350515463918,
+    "f1": 0.724116027948338
+  },
+  {
+    "fn": 29,
+    "tp": 359,
+    "tn": 19,
+    "fp": 13,
+    "fields": "letter-url_email",
+    "precision": 0.59375,
+    "recall": 0.9252577319587629,
+    "f1": 0.7233297985153765
+  },
+  {
+    "fn": 29,
+    "tp": 358,
+    "tn": 19,
+    "fp": 14,
+    "fields": "letter",
+    "precision": 0.5757575757575758,
+    "recall": 0.9250645994832042,
+    "f1": 0.7097615693640111
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 388,
+    "tn": 3,
+    "fp": 27,
+    "fields": "ngram-camelcase-stemming-url_email",
+    "precision": 0.1,
+    "recall": 0.9948717948717949,
+    "f1": 0.18173302107728337
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-camelcase-stemming",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-camelcase-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 388,
+    "tn": 3,
+    "fp": 27,
+    "fields": "ngram-camelcase-url_email",
+    "precision": 0.1,
+    "recall": 0.9948717948717949,
+    "f1": 0.18173302107728337
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-camelcase",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-stemming-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "ngram-stemming-url_email-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 388,
+    "tn": 3,
+    "fp": 27,
+    "fields": "ngram-stemming-url_email",
+    "precision": 0.1,
+    "recall": 0.9948717948717949,
+    "f1": 0.18173302107728337
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-stemming",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "ngram-url_email-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 388,
+    "tn": 3,
+    "fp": 27,
+    "fields": "ngram-url_email",
+    "precision": 0.1,
+    "recall": 0.9948717948717949,
+    "f1": 0.18173302107728337
+  },
+  {
+    "fn": 5,
+    "tp": 374,
+    "tn": 3,
+    "fp": 38,
+    "fields": "ngram",
+    "precision": 0.07317073170731707,
+    "recall": 0.9868073878627969,
+    "f1": 0.1362394511565782
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-camelcase-stemming-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-camelcase-stemming-url_email",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-camelcase-stemming",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-camelcase-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-camelcase-url_email-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-camelcase-url_email",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-camelcase",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "phonetic-edge_n_gram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "phonetic-edge_n_gram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "phonetic-edge_n_gram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "phonetic-edge_n_gram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "phonetic-edge_n_gram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "phonetic-edge_n_gram-letter-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "phonetic-edge_n_gram-letter-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "phonetic-edge_n_gram-letter-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "phonetic-edge_n_gram-letter-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "phonetic-edge_n_gram-letter-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "phonetic-edge_n_gram-letter-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-letter-ngram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "phonetic-edge_n_gram-letter-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "phonetic-edge_n_gram-letter-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "phonetic-edge_n_gram-letter-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "phonetic-edge_n_gram-letter-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "phonetic-edge_n_gram-letter-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "phonetic-edge_n_gram-letter-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "phonetic-edge_n_gram-letter-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "phonetic-edge_n_gram-letter",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "phonetic-edge_n_gram-ngram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "phonetic-edge_n_gram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "phonetic-edge_n_gram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "phonetic-edge_n_gram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "phonetic-edge_n_gram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "phonetic-edge_n_gram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "phonetic-edge_n_gram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "phonetic-edge_n_gram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 377,
+    "tn": 0,
+    "fp": 43,
+    "fields": "phonetic-edge_n_gram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-letter-camelcase-stemming-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-letter-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-letter-camelcase-stemming-url_email",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-letter-camelcase-stemming",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-letter-camelcase-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-letter-camelcase-url_email-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-letter-camelcase-url_email",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "phonetic-letter-camelcase",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-letter-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-letter-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-letter-ngram-camelcase-stemming-url_email",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-letter-ngram-camelcase-stemming",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-letter-ngram-camelcase-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-letter-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-letter-ngram-camelcase-url_email",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-letter-ngram-camelcase",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-letter-ngram-stemming-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 389,
+    "tn": 1,
+    "fp": 29,
+    "fields": "phonetic-letter-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.03333333333333333,
+    "recall": 0.9974358974358974,
+    "f1": 0.06451077943615256
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-letter-ngram-stemming-url_email",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-letter-ngram-stemming",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-letter-ngram-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-letter-ngram-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-letter-ngram-url_email",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-letter-ngram",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "phonetic-letter-stemming-text_microsoft",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "phonetic-letter-stemming-url_email-text_microsoft",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "phonetic-letter-stemming-url_email",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "phonetic-letter-stemming",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "phonetic-letter-text_microsoft",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "phonetic-letter-url_email-text_microsoft",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "phonetic-letter-url_email",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "phonetic-letter",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-camelcase-stemming-url_email",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-camelcase-stemming",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-camelcase-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-camelcase-url_email",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-camelcase",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-stemming-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-stemming-url_email",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-stemming",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-url_email-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "phonetic-ngram-url_email",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "phonetic-ngram",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "phonetic-stemming-text_microsoft",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "phonetic-stemming-url_email-text_microsoft",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "phonetic-stemming-url_email",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "phonetic-stemming",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "phonetic-text_microsoft",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "phonetic-url_email-text_microsoft",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "phonetic-url_email",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 319,
+    "tn": 4,
+    "fp": 91,
+    "fields": "phonetic",
+    "precision": 0.042105263157894736,
+    "recall": 0.9815384615384616,
+    "f1": 0.08074671729156778
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "standard_lucene-camelcase-stemming-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "standard_lucene-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 27,
+    "tp": 361,
+    "tn": 18,
+    "fp": 14,
+    "fields": "standard_lucene-camelcase-stemming-url_email",
+    "precision": 0.5625,
+    "recall": 0.9304123711340206,
+    "f1": 0.7011221406991799
+  },
+  {
+    "fn": 27,
+    "tp": 363,
+    "tn": 18,
+    "fp": 12,
+    "fields": "standard_lucene-camelcase-stemming",
+    "precision": 0.6,
+    "recall": 0.9307692307692308,
+    "f1": 0.7296482412060302
+  },
+  {
+    "fn": 26,
+    "tp": 364,
+    "tn": 18,
+    "fp": 12,
+    "fields": "standard_lucene-camelcase-text_microsoft",
+    "precision": 0.6,
+    "recall": 0.9333333333333333,
+    "f1": 0.7304347826086957
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "standard_lucene-camelcase-url_email-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 27,
+    "tp": 364,
+    "tn": 18,
+    "fp": 11,
+    "fields": "standard_lucene-camelcase-url_email",
+    "precision": 0.6206896551724138,
+    "recall": 0.9309462915601023,
+    "f1": 0.7447993634193476
+  },
+  {
+    "fn": 27,
+    "tp": 363,
+    "tn": 18,
+    "fp": 12,
+    "fields": "standard_lucene-camelcase",
+    "precision": 0.6,
+    "recall": 0.9307692307692308,
+    "f1": 0.7296482412060302
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "standard_lucene-edge_n_gram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "standard_lucene-edge_n_gram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "standard_lucene-edge_n_gram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "standard_lucene-edge_n_gram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "standard_lucene-edge_n_gram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "standard_lucene-edge_n_gram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "standard_lucene-edge_n_gram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "standard_lucene-edge_n_gram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "standard_lucene-edge_n_gram-letter-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "standard_lucene-edge_n_gram-letter-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "standard_lucene-edge_n_gram-letter-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "standard_lucene-edge_n_gram-letter-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "standard_lucene-edge_n_gram-letter-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "standard_lucene-edge_n_gram-letter-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "standard_lucene-edge_n_gram-letter-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-letter-ngram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "standard_lucene-edge_n_gram-letter-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 385,
+    "tn": 0,
+    "fp": 35,
+    "fields": "standard_lucene-edge_n_gram-letter-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "standard_lucene-edge_n_gram-letter-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "standard_lucene-edge_n_gram-letter-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "standard_lucene-edge_n_gram-letter-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "standard_lucene-edge_n_gram-letter-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "standard_lucene-edge_n_gram-letter-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 384,
+    "tn": 0,
+    "fp": 36,
+    "fields": "standard_lucene-edge_n_gram-letter",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "standard_lucene-edge_n_gram-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-edge_n_gram-ngram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 382,
+    "tn": 0,
+    "fp": 38,
+    "fields": "standard_lucene-edge_n_gram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "standard_lucene-edge_n_gram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "standard_lucene-edge_n_gram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "standard_lucene-edge_n_gram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "standard_lucene-edge_n_gram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 382,
+    "tn": 0,
+    "fp": 38,
+    "fields": "standard_lucene-edge_n_gram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 383,
+    "tn": 0,
+    "fp": 37,
+    "fields": "standard_lucene-edge_n_gram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 377,
+    "tn": 0,
+    "fp": 43,
+    "fields": "standard_lucene-edge_n_gram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "standard_lucene-letter-camelcase-stemming-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "standard_lucene-letter-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 27,
+    "tp": 361,
+    "tn": 18,
+    "fp": 14,
+    "fields": "standard_lucene-letter-camelcase-stemming-url_email",
+    "precision": 0.5625,
+    "recall": 0.9304123711340206,
+    "f1": 0.7011221406991799
+  },
+  {
+    "fn": 27,
+    "tp": 360,
+    "tn": 18,
+    "fp": 15,
+    "fields": "standard_lucene-letter-camelcase-stemming",
+    "precision": 0.5454545454545454,
+    "recall": 0.9302325581395349,
+    "f1": 0.6876790830945559
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "standard_lucene-letter-camelcase-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 26,
+    "tp": 361,
+    "tn": 18,
+    "fp": 15,
+    "fields": "standard_lucene-letter-camelcase-url_email-text_microsoft",
+    "precision": 0.5454545454545454,
+    "recall": 0.9328165374677002,
+    "f1": 0.6883839186397583
+  },
+  {
+    "fn": 27,
+    "tp": 361,
+    "tn": 18,
+    "fp": 14,
+    "fields": "standard_lucene-letter-camelcase-url_email",
+    "precision": 0.5625,
+    "recall": 0.9304123711340206,
+    "f1": 0.7011221406991799
+  },
+  {
+    "fn": 27,
+    "tp": 363,
+    "tn": 18,
+    "fp": 12,
+    "fields": "standard_lucene-letter-camelcase",
+    "precision": 0.6,
+    "recall": 0.9307692307692308,
+    "f1": 0.7296482412060302
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-letter-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-letter-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-letter-ngram-camelcase-stemming-url_email",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-letter-ngram-camelcase-stemming",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-letter-ngram-camelcase-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-letter-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-letter-ngram-camelcase-url_email",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-letter-ngram-camelcase",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 385,
+    "tn": 3,
+    "fp": 30,
+    "fields": "standard_lucene-letter-ngram-stemming-text_microsoft",
+    "precision": 0.09090909090909091,
+    "recall": 0.9948320413436692,
+    "f1": 0.1665945478147988
+  },
+  {
+    "fn": 2,
+    "tp": 384,
+    "tn": 3,
+    "fp": 31,
+    "fields": "standard_lucene-letter-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.08823529411764706,
+    "recall": 0.9948186528497409,
+    "f1": 0.16209371042634024
+  },
+  {
+    "fn": 2,
+    "tp": 385,
+    "tn": 3,
+    "fp": 30,
+    "fields": "standard_lucene-letter-ngram-stemming-url_email",
+    "precision": 0.09090909090909091,
+    "recall": 0.9948320413436692,
+    "f1": 0.1665945478147988
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-letter-ngram-stemming",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-letter-ngram-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 385,
+    "tn": 3,
+    "fp": 30,
+    "fields": "standard_lucene-letter-ngram-url_email-text_microsoft",
+    "precision": 0.09090909090909091,
+    "recall": 0.9948320413436692,
+    "f1": 0.1665945478147988
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-letter-ngram-url_email",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-letter-ngram",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-letter-stemming-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-letter-stemming-url_email-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 29,
+    "tp": 359,
+    "tn": 19,
+    "fp": 13,
+    "fields": "standard_lucene-letter-stemming-url_email",
+    "precision": 0.59375,
+    "recall": 0.9252577319587629,
+    "f1": 0.7233297985153765
+  },
+  {
+    "fn": 29,
+    "tp": 358,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-letter-stemming",
+    "precision": 0.5757575757575758,
+    "recall": 0.9250645994832042,
+    "f1": 0.7097615693640111
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-letter-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-letter-url_email-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 29,
+    "tp": 359,
+    "tn": 19,
+    "fp": 13,
+    "fields": "standard_lucene-letter-url_email",
+    "precision": 0.59375,
+    "recall": 0.9252577319587629,
+    "f1": 0.7233297985153765
+  },
+  {
+    "fn": 29,
+    "tp": 358,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-letter",
+    "precision": 0.5757575757575758,
+    "recall": 0.9250645994832042,
+    "f1": 0.7097615693640111
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-camelcase-stemming-url_email",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-camelcase-stemming",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-camelcase-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 388,
+    "tn": 3,
+    "fp": 27,
+    "fields": "standard_lucene-ngram-camelcase-url_email",
+    "precision": 0.1,
+    "recall": 0.9948717948717949,
+    "f1": 0.18173302107728337
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-camelcase",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-ngram-stemming-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 385,
+    "tn": 3,
+    "fp": 30,
+    "fields": "standard_lucene-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.09090909090909091,
+    "recall": 0.9948320413436692,
+    "f1": 0.1665945478147988
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-stemming-url_email",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-stemming",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram-text_microsoft",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 2,
+    "tp": 386,
+    "tn": 3,
+    "fp": 29,
+    "fields": "standard_lucene-ngram-url_email-text_microsoft",
+    "precision": 0.09375,
+    "recall": 0.9948453608247423,
+    "f1": 0.17135247114530927
+  },
+  {
+    "fn": 2,
+    "tp": 388,
+    "tn": 3,
+    "fp": 27,
+    "fields": "standard_lucene-ngram-url_email",
+    "precision": 0.1,
+    "recall": 0.9948717948717949,
+    "f1": 0.18173302107728337
+  },
+  {
+    "fn": 2,
+    "tp": 387,
+    "tn": 3,
+    "fp": 28,
+    "fields": "standard_lucene-ngram",
+    "precision": 0.0967741935483871,
+    "recall": 0.9948586118251928,
+    "f1": 0.17639015496809482
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-camelcase-stemming-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-camelcase-stemming-url_email",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-camelcase-stemming",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-camelcase-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-camelcase-url_email-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-camelcase-url_email",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-camelcase",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "standard_lucene-phonetic-edge_n_gram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-ngram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 390,
+    "tn": 0,
+    "fp": 30,
+    "fields": "standard_lucene-phonetic-edge_n_gram-letter",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 392,
+    "tn": 0,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-camelcase-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-camelcase-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-camelcase-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-camelcase-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-camelcase",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 391,
+    "tn": 0,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-edge_n_gram-ngram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-edge_n_gram-stemming-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "standard_lucene-phonetic-edge_n_gram-stemming-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "standard_lucene-phonetic-edge_n_gram-stemming-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-edge_n_gram-stemming",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 388,
+    "tn": 0,
+    "fp": 32,
+    "fields": "standard_lucene-phonetic-edge_n_gram-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 387,
+    "tn": 0,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-edge_n_gram-url_email-text_microsoft",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 389,
+    "tn": 0,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-edge_n_gram-url_email",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 0,
+    "tp": 386,
+    "tn": 0,
+    "fp": 34,
+    "fields": "standard_lucene-phonetic-edge_n_gram",
+    "precision": 0.0,
+    "recall": 1.0,
+    "f1": 0.0
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-letter-camelcase-stemming-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-letter-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-letter-camelcase-stemming-url_email",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-letter-camelcase-stemming",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-letter-camelcase-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-letter-camelcase-url_email-text_microsoft",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-letter-camelcase-url_email",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 4,
+    "tp": 381,
+    "tn": 4,
+    "fp": 31,
+    "fields": "standard_lucene-phonetic-letter-camelcase",
+    "precision": 0.11428571428571428,
+    "recall": 0.9896103896103896,
+    "f1": 0.20490756302521007
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-camelcase-stemming-url_email",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-camelcase-stemming",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-camelcase-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-camelcase-url_email",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-letter-ngram-camelcase",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 389,
+    "tn": 1,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-letter-ngram-stemming-text_microsoft",
+    "precision": 0.03333333333333333,
+    "recall": 0.9974358974358974,
+    "f1": 0.06451077943615256
+  },
+  {
+    "fn": 1,
+    "tp": 389,
+    "tn": 1,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-letter-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.03333333333333333,
+    "recall": 0.9974358974358974,
+    "f1": 0.06451077943615256
+  },
+  {
+    "fn": 1,
+    "tp": 389,
+    "tn": 1,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-letter-ngram-stemming-url_email",
+    "precision": 0.03333333333333333,
+    "recall": 0.9974358974358974,
+    "f1": 0.06451077943615256
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-stemming",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 389,
+    "tn": 1,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-letter-ngram-url_email-text_microsoft",
+    "precision": 0.03333333333333333,
+    "recall": 0.9974358974358974,
+    "f1": 0.06451077943615256
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-letter-ngram-url_email",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-letter-ngram",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-letter-stemming-text_microsoft",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-letter-stemming-url_email-text_microsoft",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-letter-stemming-url_email",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-letter-stemming",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-letter-text_microsoft",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-letter-url_email-text_microsoft",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 377,
+    "tn": 4,
+    "fp": 33,
+    "fields": "standard_lucene-phonetic-letter-url_email",
+    "precision": 0.10810810810810811,
+    "recall": 0.9843342036553525,
+    "f1": 0.1948194561074866
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "standard_lucene-phonetic-letter",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-ngram-camelcase-stemming-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-ngram-camelcase-stemming-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-ngram-camelcase-stemming-url_email",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-ngram-camelcase-stemming",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-ngram-camelcase-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-ngram-camelcase-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-ngram-camelcase-url_email",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-ngram-camelcase",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-ngram-stemming-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 389,
+    "tn": 1,
+    "fp": 29,
+    "fields": "standard_lucene-phonetic-ngram-stemming-url_email-text_microsoft",
+    "precision": 0.03333333333333333,
+    "recall": 0.9974358974358974,
+    "f1": 0.06451077943615256
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-ngram-stemming-url_email",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-ngram-stemming",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-ngram-text_microsoft",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 390,
+    "tn": 1,
+    "fp": 28,
+    "fields": "standard_lucene-phonetic-ngram-url_email-text_microsoft",
+    "precision": 0.034482758620689655,
+    "recall": 0.9974424552429667,
+    "f1": 0.06666096914793607
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-ngram-url_email",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 1,
+    "tp": 391,
+    "tn": 1,
+    "fp": 27,
+    "fields": "standard_lucene-phonetic-ngram",
+    "precision": 0.03571428571428571,
+    "recall": 0.9974489795918368,
+    "f1": 0.0689594356261023
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "standard_lucene-phonetic-stemming-text_microsoft",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "standard_lucene-phonetic-stemming-url_email-text_microsoft",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "standard_lucene-phonetic-stemming-url_email",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "standard_lucene-phonetic-stemming",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "standard_lucene-phonetic-text_microsoft",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 376,
+    "tn": 4,
+    "fp": 34,
+    "fields": "standard_lucene-phonetic-url_email-text_microsoft",
+    "precision": 0.10526315789473684,
+    "recall": 0.9842931937172775,
+    "f1": 0.19018715225088517
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "standard_lucene-phonetic-url_email",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 6,
+    "tp": 375,
+    "tn": 4,
+    "fp": 35,
+    "fields": "standard_lucene-phonetic",
+    "precision": 0.10256410256410256,
+    "recall": 0.984251968503937,
+    "f1": 0.1857700167193015
+  },
+  {
+    "fn": 28,
+    "tp": 358,
+    "tn": 19,
+    "fp": 15,
+    "fields": "standard_lucene-stemming-text_microsoft",
+    "precision": 0.5588235294117647,
+    "recall": 0.927461139896373,
+    "f1": 0.6974264328924433
+  },
+  {
+    "fn": 28,
+    "tp": 358,
+    "tn": 19,
+    "fp": 15,
+    "fields": "standard_lucene-stemming-url_email-text_microsoft",
+    "precision": 0.5588235294117647,
+    "recall": 0.927461139896373,
+    "f1": 0.6974264328924433
+  },
+  {
+    "fn": 29,
+    "tp": 358,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-stemming-url_email",
+    "precision": 0.5757575757575758,
+    "recall": 0.9250645994832042,
+    "f1": 0.7097615693640111
+  },
+  {
+    "fn": 29,
+    "tp": 357,
+    "tn": 19,
+    "fp": 15,
+    "fields": "standard_lucene-stemming",
+    "precision": 0.5588235294117647,
+    "recall": 0.9248704663212435,
+    "f1": 0.6966926869350862
+  },
+  {
+    "fn": 28,
+    "tp": 358,
+    "tn": 19,
+    "fp": 15,
+    "fields": "standard_lucene-text_microsoft",
+    "precision": 0.5588235294117647,
+    "recall": 0.927461139896373,
+    "f1": 0.6974264328924433
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-url_email-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 29,
+    "tp": 358,
+    "tn": 19,
+    "fp": 14,
+    "fields": "standard_lucene-url_email",
+    "precision": 0.5757575757575758,
+    "recall": 0.9250645994832042,
+    "f1": 0.7097615693640111
+  },
+  {
+    "fn": 29,
+    "tp": 357,
+    "tn": 19,
+    "fp": 15,
+    "fields": "standard_lucene",
+    "precision": 0.5588235294117647,
+    "recall": 0.9248704663212435,
+    "f1": 0.6966926869350862
+  },
+  {
+    "fn": 28,
+    "tp": 358,
+    "tn": 19,
+    "fp": 15,
+    "fields": "stemming-text_microsoft",
+    "precision": 0.5588235294117647,
+    "recall": 0.927461139896373,
+    "f1": 0.6974264328924433
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "stemming-url_email-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 29,
+    "tp": 358,
+    "tn": 19,
+    "fp": 14,
+    "fields": "stemming-url_email",
+    "precision": 0.5757575757575758,
+    "recall": 0.9250645994832042,
+    "f1": 0.7097615693640111
+  },
+  {
+    "fn": 29,
+    "tp": 357,
+    "tn": 19,
+    "fp": 15,
+    "fields": "stemming",
+    "precision": 0.5588235294117647,
+    "recall": 0.9248704663212435,
+    "f1": 0.6966926869350862
+  },
+  {
+    "fn": 28,
+    "tp": 354,
+    "tn": 19,
+    "fp": 19,
+    "fields": "text_microsoft",
+    "precision": 0.5,
+    "recall": 0.9267015706806283,
+    "f1": 0.6495412844036698
+  },
+  {
+    "fn": 28,
+    "tp": 359,
+    "tn": 19,
+    "fp": 14,
+    "fields": "url_email-text_microsoft",
+    "precision": 0.5757575757575758,
+    "recall": 0.9276485788113695,
+    "f1": 0.7105208333333334
+  },
+  {
+    "fn": 29,
+    "tp": 358,
+    "tn": 19,
+    "fp": 14,
+    "fields": "url_email",
+    "precision": 0.5757575757575758,
+    "recall": 0.9250645994832042,
+    "f1": 0.7097615693640111
+  }
+]
